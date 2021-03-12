@@ -1,0 +1,41 @@
+.css-image {
+  background-color: beige;
+  width: 50%;
+  height: 50%;
+  border: 10px solid blueviolet;
+  padding: 50px;
+  margin: 20px;
+
+}
+
+body {
+  background-color: black
+}
+.css-header {
+  font-family: cursive;
+  background-color: azure;
+  border: 10px solid rgb(194, 129, 73);
+  margin: 20px;
+  padding: 100px;
+  color: rgb(53, 127, 177);
+  text-align: center;
+}
+
+.css-table {
+  font-family: cursive;
+  background-color: snow;
+  border: 3px solid rosybrown;
+  margin: 1px;
+  padding: 1px;
+  color: black;
+}
+
+.css-text {
+  text-align: center;
+  background-color: gray;
+  color:antiquewhite;
+  font-family: cursive;
+  border: 1px powderblue;
+  margin: 1px;
+  padding:1px;
+}
