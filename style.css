@@ -5,11 +5,10 @@
   border: 10px solid blueviolet;
   padding: 50px;
   margin: 20px;
-
 }
 
 body {
-  background-color: black
+  background-color: black;
 }
 .css-header {
   font-family: cursive;
@@ -33,9 +32,9 @@ body {
 .css-text {
   text-align: center;
   background-color: gray;
-  color:antiquewhite;
+  color: antiquewhite;
   font-family: cursive;
   border: 1px powderblue;
   margin: 1px;
-  padding:1px;
+  padding: 1px;
 }
